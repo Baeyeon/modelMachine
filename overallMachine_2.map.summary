@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri May 28 17:57:02 2021
+Quartus II Version : 8.1 Build 163 10/28/2008 SJ Web Edition
+Revision Name : overallMachine_2
+Top-level Entity Name : overallMachine_2
+Family : Cyclone II
+Total logic elements : 156
+    Total combinational functions : 156
+    Dedicated logic registers : 93
+Total registers : 93
+Total pins : 67
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
